@@ -1,4 +1,4 @@
-<img src="logo.png"   width="500px" min-width="500px" max-width="500px" align="right" alt="Logo Rodrigo Lucas">
+<img src="logo.png"   width="400px" min-width="400px" max-width="400px" align="right" alt="Logo Rodrigo Lucas">
 
 <h2>Hello World ☕</h2>
 
